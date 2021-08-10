@@ -1,0 +1,50 @@
+
+Host Name:                 PCTXVDICR004
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          VDI
+Registered Organization:   
+Product ID:                00329-00000-00003-AA177
+Original Install Date:     02/17/2021, 08:19:04
+System Boot Time:          08/10/2021, 09:56:33
+System Manufacturer:       Nutanix
+System Model:              AHV
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 15 Model 6 Stepping 1 GenuineIntel ~2993 Mhz
+                           [02]: Intel64 Family 15 Model 6 Stepping 1 GenuineIntel ~2993 Mhz
+BIOS Version:              SeaBIOS 1.11.0-2.el7, 04/01/2014
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             he;Hebrew
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+02:00) Jerusalem
+Total Physical Memory:     8,191 MB
+Available Physical Memory: 1,004 MB
+Virtual Memory: Max Size:  12,287 MB
+Virtual Memory: Available: 1,136 MB
+Virtual Memory: In Use:    11,151 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    snifim.bank
+Logon Server:              \\PADMBH01
+Hotfix(s):                 8 Hotfix(s) Installed.
+                           [01]: KB4586878
+                           [02]: KB4517245
+                           [03]: KB4535680
+                           [04]: KB4537759
+                           [05]: KB4552152
+                           [06]: KB4601395
+                           [07]: KB5003974
+                           [08]: KB5003635
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Nutanix VirtIO Ethernet Adapter
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.25.120.2
+                                 IP address(es)
+                                 [01]: 172.25.120.45
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
